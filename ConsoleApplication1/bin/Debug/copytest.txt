@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html land="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Test</title>
+</head>
+	
+	<!--[/Content]-->
+
+</html>
